@@ -290,7 +290,7 @@ a {
     font-weight: normal;
   }
   .description{
-    width: 60%;
+    width: 100%;
   }
   .tombol{
     display: flex;
